@@ -2,7 +2,7 @@
 
 [![Project Status: Completed](./.assets/images/badges/status/completed.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/slimesmp/castle-siege-map?style=for-the-badge&logo=github&label=Repository%20size)](./)
 
-This repository serves as a template for generating new Git repositories for asset files.
+The map for Castle Siege! Unfortunately version 1.0.0 has been lost!
 
 ## License
 
