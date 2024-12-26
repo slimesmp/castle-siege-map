@@ -1,0 +1,12 @@
+[submodule "datapacks/terralith"]
+	path = datapacks/terralith
+	url = git@github.com:Stardust-Labs-MC/Terralith.git
+[submodule "datapacks/structory"]
+	path = datapacks/structory
+	url = git@github.com:Stardust-Labs-MC/Structory.git
+[submodule "Incendium"]
+	path = datapacks/incendium
+	url = git@github.com:Stardust-Labs-MC/Incendium.git
+[submodule "datapacks/continents"]
+	path = datapacks/continents
+	url = git@github.com:Stardust-Labs-MC/Continents.git
